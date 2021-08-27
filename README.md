@@ -1,0 +1,1 @@
+# php-side-effect-detector
